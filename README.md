@@ -13,3 +13,8 @@ Repository with methods of computation homework.
 8. [Solving differential equations: Galerkin method](./practice/task_08/solution.ipynb).
 9. —
 10. [One-dimensional heat equation](./practice/task_10/solution.ipynb).
+
+
+## Lecture
+
+1. [Oscillating matrix](./lecture/task_1/solution.ipynb).
