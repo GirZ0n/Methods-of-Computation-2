@@ -19,3 +19,4 @@ Repository with methods of computation homework.
 
 1. [Oscillating matrix](./lecture/task_1/solution.ipynb).
 2. [Integral equations of the first kind](./lecture/task_2/solution.ipynb).
+3. [Inverse Laplace transform](./lecture/task_3/solution.ipynb).
